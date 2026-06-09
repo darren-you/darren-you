@@ -1,5 +1,5 @@
 # Hi there 👋
 
-<br>🔭  I’m currently focus on [Swift](https://developer.apple.com/swiftui/)、[Flutter](https://flutter.dev)
+<br>🔭  I’m currently focus on [Agent First Engineering]([https://developer.apple.com/swiftui/](https://openai.com/index/harness-engineering/))
 <br><br>📫  How to reach me: mail@xdarren.com
-<br><br>⚡  Fun fact: 💻、 ☕️、🏸、🎵、🎬、🎸、🎾、📷、🚴、🧗‍♂️ . . .
+<br><br>⚡  Fun fact: 💻、☕️、🎾、🏸、🎵、🎬、📷、🚴、🎸、🧗‍♂️ . . .
