@@ -5,4 +5,5 @@
 🛠️ AI-Native Developer ❘ [darrenyou.com](https://darrenyou.com/)  
 ✨ X is possibility. Just make it real and take it further.  
 🎯 Currently focusing on [Agent First Engineering](https://openai.com/index/harness-engineering/)  
-📮 Reach me: [contact@darrenyou.com](mailto:contact@darrenyou.com)
+📮 Reach me: [contact@darrenyou.com](mailto:contact@darrenyou.com)  
+⚡ Fun fact: 💻 ☕️ 🏃 🍾 🏋️ 🎾 🏸 🎵 🎬 🚴 🎸 🧗‍♂️
