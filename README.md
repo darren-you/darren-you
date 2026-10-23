@@ -1,5 +1,3 @@
-个人简介
-
 # Hi there 👋, I'm Darren You!
 
 **Now You See Me**
