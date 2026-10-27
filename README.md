@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" alt="Darren You standing by a red wall, with his shadow beside him" width="100%">
+<img src="./assets/banner.png?v=bde51a1" alt="Darren You standing by a red wall, with his shadow beside him" width="100%">
 
 ### Hi there 👋, I'm Darren You!
 
