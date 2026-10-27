@@ -1,3 +1,5 @@
+<img src="./assets/banner.png" alt="Darren You standing by a red wall, with his shadow beside him" width="100%">
+
 ### Hi there 👋, I'm Darren You!
 
 **Now You See Me**
